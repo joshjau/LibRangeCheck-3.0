@@ -5,3 +5,4 @@ desktop.ini
 .install
 .lua/*
 .vscode/settings.json
+/.cursor
